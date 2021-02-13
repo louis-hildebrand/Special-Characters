@@ -2,7 +2,7 @@
 
 These scripts allow for easy typing of special characters. 
 
-AutoHotKey is required to run them: https://www.autohotkey.com/
+AutoHotkey is required to run them: https://www.autohotkey.com/
 
 The scripts were written on a Windows computer and may not work on other operating systems.
 
