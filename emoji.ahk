@@ -1,0 +1,12 @@
+#NoEnv
+#Hotstring EndChars :
+
+:o::shrug::{U+00af}\_({U+30c4})_/{U+00af}
+:o::facepalm::{U+1F926}
+:o::simp::{U+1f97a}
+:o::stareyes::{U+1F929}
+:o::clown::{U+1f921}
+:o::vomit::{U+1F92E}
+:o::triumph::{U+1F624}
+:o::miam::{U+1F60B}
+:o::sparkles::{U+2728}
