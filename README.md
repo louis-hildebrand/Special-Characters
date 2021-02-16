@@ -6,7 +6,7 @@ AutoHotkey is required to run them: https://www.autohotkey.com/
 
 The scripts were written on a Windows computer and may not work on other operating systems.
 
-## Current characters
+## Currently supported characters
 * Direct Unicode input: CTRL+SHIFT+U, then enter the desired character code
 * Greek letters
   * e.g. \\delta becomes δ
@@ -19,7 +19,7 @@ The scripts were written on a Windows computer and may not work on other operati
 * Superscripts (only for numbers)
   * e.g. x^^2 becomes x²
 
-## Current emoji/emoticons
+## Currently supported emoji/emoticons
 | Command       | Output
 | ------------- | ----------
 | :​shrug:      | ¯&#92;\_(ツ)\_/¯  
