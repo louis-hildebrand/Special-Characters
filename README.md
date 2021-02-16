@@ -31,3 +31,5 @@ The scripts were written on a Windows computer and may not work on other operati
 | :​triumph:    | 😤  
 | :​miam:       | 😋  
 | :​sparkles:   | ✨  
+| :​thumbsup:   | 👍
+| :​poop:       | 💩
