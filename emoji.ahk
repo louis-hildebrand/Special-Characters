@@ -10,3 +10,5 @@
 :o::triumph::{U+1F624}
 :o::miam::{U+1F60B}
 :o::sparkles::{U+2728}
+:o::poop::{U+1F4A9}
+:o::thumbsup::{U+1F44D}
