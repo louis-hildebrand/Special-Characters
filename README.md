@@ -19,7 +19,7 @@ The scripts were written on a Windows computer and may not work on other operati
 * Superscripts (only for numbers)
   * e.g. x^^2 becomes x²
 
-## Current emoji/emoticon
+## Current emoji/emoticons
 | Command       | Output
 | ------------- | ----------
 | :​shrug:      | ¯&#92;\_(ツ)\_/¯  
