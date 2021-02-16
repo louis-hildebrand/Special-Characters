@@ -6,7 +6,7 @@ AutoHotkey is required to run them: https://www.autohotkey.com/
 
 The scripts were written on a Windows computer and may not work on other operating systems.
 
-## Current Characters
+## Current characters
 * Direct Unicode input: CTRL+SHIFT+U, then enter the desired character code
 * Greek letters
   * e.g. \\delta becomes δ
