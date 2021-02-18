@@ -12,3 +12,5 @@
 :o::sparkles::{U+2728}
 :o::poop::{U+1F4A9}
 :o::thumbsup::{U+1F44D}
+:o::sweat_smile::{U+1F605}
+:o::pensive::{U+1F614}
