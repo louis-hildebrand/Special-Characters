@@ -20,16 +20,18 @@ The scripts were written on a Windows computer and may not work on other operati
   * e.g. x^^2 becomes x²
 
 ## Currently supported emoji/emoticons
-| Command       | Output
-| ------------- | ----------
-| :​shrug:      | ¯&#92;\_(ツ)\_/¯  
-| :​facepalm:   |  🤦  
-| :​simp:       | 🥺  
-| :​stareyes:   | 🤩  
-| :​clown:      | 🤡  
-| :​vomit:      | 🤮  
-| :​triumph:    | 😤  
-| :​miam:       | 😋  
-| :​sparkles:   | ✨  
-| :​thumbsup:   | 👍
-| :​poop:       | 💩
+| Command        | Output
+| -------------- | ----------
+| :​shrug:       | ¯&#92;\_(ツ)\_/¯  
+| :​facepalm:    |  🤦  
+| :​simp:        | 🥺  
+| :​stareyes:    | 🤩  
+| :​clown:       | 🤡  
+| :​vomit:       | 🤮  
+| :​triumph:     | 😤  
+| :​miam:        | 😋  
+| :​sparkles:    | ✨  
+| :​thumbsup:    | 👍
+| :​poop:        | 💩
+| :​sweat_smile: | 😅
+| :​pensive:     | 😔
