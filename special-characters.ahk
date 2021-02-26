@@ -147,8 +147,9 @@
 	:co?:\\R::{U+211d}
 	:co?:\\C::{U+2102}
 	:co?:\\infty::{U+221e}
+	:co?:\\XNOR::{U+2299}
 
-; Physics symbols
+; Misc
 	:c*?:\\deg::{U+00b0}
 	
 ; LaTeX

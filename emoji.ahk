@@ -14,3 +14,6 @@
 :o::thumbsup::{U+1F44D}
 :o::sweat_smile::{U+1F605}
 :o::pensive::{U+1F614}
+:o::older_woman::{U+1F475}
+:o::older_man::{U+1F474}
+:o::upside_down_face::{U+1F643}
