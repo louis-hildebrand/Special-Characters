@@ -31,7 +31,7 @@
 	:c*?:\\Chi::{U+03a7}
 	:c*?:\\Psi::{U+03a8}
 	:c*?:\\Omega::{U+03a9}
-	
+
 ; Lowercase Greek letters
 	:c*?:\\alpha::{U+03b1}
 	:c*?:\\beta::{U+03b2}
@@ -115,6 +115,10 @@
 	:co?:\\R::{U+211d}
 	:co?:\\C::{U+2102}
 	:co?:\\infty::{U+221e}
+	:co?:\\neg::{U+00AC}
+	:co?:\\wedge::{U+2227}
+	:co?:\\vee::{U+2228}
+	:co?:\\oplus::{U+2295}
 	:co?:\\XNOR::{U+2299}
 
 ; Misc

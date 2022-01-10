@@ -11,7 +11,7 @@ The scripts were written on a Windows computer and may not work on other operati
 * Greek letters
   * e.g. \\delta becomes δ
   * e.g. \\Delta becomes Δ
-* Various math symbols: generally using commands from LaTeX
+* Various math symbols: generally based on commands from LaTeX
   * e.g. \\geq becomes ≥
   * e.g. \\int becomes ∫
 * Subscripts (only for numbers)
