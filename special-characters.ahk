@@ -120,6 +120,7 @@
 	:co?:\\vee::{U+2228}
 	:co?:\\oplus::{U+2295}
 	:co?:\\XNOR::{U+2299}
+	:co?:\\equiv::{U+2261}
 
 ; Misc
 	:c*?:\\deg::{U+00b0}
